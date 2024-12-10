@@ -7,6 +7,7 @@
     }
     section#login {
         width: 90vw;
+        height: 275px;
     }
     section#login > div#imagem {
         float: left;
@@ -24,6 +25,10 @@
         text-align: center;
         font-size: 0.7em;
     }
+    div.campo > input {
+        width: 555px;
+        height: 100%;
+    }
 
 }
 
@@ -33,6 +38,7 @@
     }
     section#login {
         width: 950px;
+        height: 250px;
     }
 
     section#login > div#imagem {
@@ -50,6 +56,10 @@
     div#formulario > p {
         text-align: center;
         font-size: 0.8em;
+    }
+    div.campo > input {
+        width: 410px;
+        height: 100%;
     }
 }
 
